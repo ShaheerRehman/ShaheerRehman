@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @ShaheerRehman
+- 👀 I’m interested in Computer Science
+- 🌱 I’m currently learning full-stack web-development
+- 💞️ I’m looking to collaborate on web-development
+- 📫 How to reach me: shaheerr7@gmail.com
